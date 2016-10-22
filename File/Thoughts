@@ -1,0 +1,9 @@
+1. Baseline model
+Use neighbourhood, accommodates to predict price. Calculate baseline model's MSE as benchmark
+
+2.How to solve collinearity？ 
+Room type must be related to accommodates. Bedrooms and bed.
+
+3.Clearly define the target variable Total_Price
+Is it the sum of price and cleaning fee? If the room type is Private Room or Shared Room, dose accommodates mean how many
+people can live under your order, or a general figure that how many people this house can accommodates. 
