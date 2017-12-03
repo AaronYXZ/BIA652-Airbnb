@@ -1,4 +1,4 @@
 # BIA652-Airbnb
-This is for BIA program BIA652 Airbnb Housing Price Prediciton
+This is for BIA program Airbnb Housing Price Prediciton
 
-Test
+
